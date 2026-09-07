@@ -1,2 +1,2 @@
 # Google-Keep-UI-UX-Recreation
-UI UX
+UI/UX Recreation & Prototype of Google Keep (Mobile app)
